@@ -79,12 +79,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mental Stat Tests.md",
+                "file": "Resources.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mental Stat Tests"
+              "title": "Resources"
             }
           }
         ],
@@ -253,10 +253,10 @@
   "active": "90a5399bb95270bd",
   "lastOpenFiles": [
     "Physical Stat Tests.md",
+    "Main Page.md",
+    "Mental Stat Tests.md",
     "Resources.md",
     "Description of each Stat.md",
-    "Mental Stat Tests.md",
-    "Main Page.md",
     "Welcome.md"
   ]
 }

@@ -7,3 +7,5 @@ Dexterity - Reaction Time and Hand Eye Coordination
 Endurance - Rasial 
 
 Constitution - Caffeine resistance, poison resistance
+
+[[Resources]]
